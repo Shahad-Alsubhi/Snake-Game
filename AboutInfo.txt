@@ -1,0 +1,14 @@
+                     
+
+                             the famous game "Snake" 
+
+            A long serpentine creature slithers across a limited field,
+            obeying the player's orders (moving right, left, down, and up).
+            And there's no way to stop it from moving. Just don't touch the
+            boundaries or you'll die! And don't bite yourself or... well, 
+            you get the idea.Along the way,the creature encounters food that 
+            makes it even longer.As it grows,it gets more and more cramped... 
+
+            This game originated in the 1970s.That's when it first appeared 
+            on arcade machines.In the 21st century,it was popularized by Nokia, 
+            which pre-installed Snake on almost all their mobile phones.
